@@ -1,0 +1,29 @@
+# Jupyter
+jupyter
+ipykernel
+
+# Data Structures
+numpy
+pandas
+
+# Web Scraping
+beautifulsoup4
+requests
+
+# Machine Learning
+scipy
+sklearn
+statsmodels
+
+# Plotting
+matplotlib
+seaborn
+
+# Deep Learning
+keras
+tensorflow
+GraphViz
+pydot
+
+# Dates
+datetime
