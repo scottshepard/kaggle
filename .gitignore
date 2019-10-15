@@ -108,3 +108,6 @@ venv.bak/
 
 # Don's store data
 *.csv
+
+# Mac stuff
+.DS_Store
