@@ -17,7 +17,7 @@ seaborn = "*"
 keras = "*"
 tensorflow = "*"
 datetime = "*"
-
+pydot = "*"
 
 [requires]
 python_version = "3.7"
